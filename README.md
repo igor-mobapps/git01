@@ -4,4 +4,4 @@
 
 Este repositório serve de exemplo para o curso de de GIT
 
-Apenas um teste sobre contribuição
+Apenas um teste sobre contribuição :D
