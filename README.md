@@ -3,3 +3,5 @@
 ![PHP LOGO](php_logo.png)
 
 Este repositório serve de exemplo para o curso de de GIT
+
+Apenas um teste sobre contribuição
